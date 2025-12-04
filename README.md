@@ -68,5 +68,5 @@ Run: python mobile_sales_prediction.py
 
 ## 👨‍💻 Author
 
-Karthick S
+Karthick S ,
 Dhanavandhan L
