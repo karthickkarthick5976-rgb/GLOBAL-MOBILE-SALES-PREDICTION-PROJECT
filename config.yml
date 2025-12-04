@@ -1,5 +1,6 @@
-title:GLOBAL MOBILE
-description:[GLOBAL MOBILE SALES PREDICTION]
-theme: jekyll-theme-midnight
-
+title: GLOBAL MOBILE
+description: [GLOBAL MOBILE SALES PREDICTION].
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
 
